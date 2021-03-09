@@ -5,5 +5,5 @@ A sample Jest implemented with some test cases
 Commands
 
 
-"npm start" - For Dev Environment \n
+"npm start" - For Dev Environment
 "npm test" - For Test Environment
